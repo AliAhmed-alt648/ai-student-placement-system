@@ -1,0 +1,299 @@
+[
+  {
+    "id": "student-001",
+    "full_name": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "phone": "+1-555-0101",
+    "level": "Intermediate",
+    "bio": "Passionate full-stack developer with 3 years of experience in building scalable web applications",
+    "education": [
+      {
+        "degree": "B.Tech in Computer Science",
+        "institution": "Stanford University",
+        "year": "2021",
+        "gpa": "3.8",
+        "major": "Computer Science"
+      }
+    ],
+    "experience": [
+      {
+        "company": "TechCorp Inc",
+        "role": "Software Engineer",
+        "start_date": "2021-07",
+        "end_date": "2024-06",
+        "description": "Developed microservices using Node.js and React. Improved API response time by 40%.",
+        "achievements": ["Led team of 3 developers", "Reduced deployment time by 50%"]
+      },
+      {
+        "company": "StartupXYZ",
+        "role": "Junior Developer",
+        "start_date": "2020-06",
+        "end_date": "2021-06",
+        "description": "Built responsive web applications using React and TypeScript"
+      }
+    ],
+    "skills": [
+      {"name": "JavaScript", "proficiency": "Advanced", "years": 4},
+      {"name": "React", "proficiency": "Advanced", "years": 3},
+      {"name": "Node.js", "proficiency": "Intermediate", "years": 3},
+      {"name": "Python", "proficiency": "Intermediate", "years": 2},
+      {"name": "PostgreSQL", "proficiency": "Intermediate", "years": 2},
+      {"name": "Docker", "proficiency": "Beginner", "years": 1},
+      {"name": "AWS", "proficiency": "Beginner", "years": 1}
+    ],
+    "projects": [
+      {
+        "title": "E-commerce Platform",
+        "description": "Built a full-stack e-commerce platform with payment integration",
+        "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+        "url": "https://github.com/sarah/ecommerce",
+        "date": "2023"
+      },
+      {
+        "title": "Task Management App",
+        "description": "Real-time collaborative task management application",
+        "technologies": ["React", "Firebase", "Material-UI"],
+        "url": "https://github.com/sarah/taskapp",
+        "date": "2022"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Developer",
+        "issuer": "Amazon Web Services",
+        "date": "2023-05",
+        "url": "https://aws.amazon.com/certification/"
+      }
+    ],
+    "total_experience_years": 3.5
+  },
+  {
+    "id": "student-002",
+    "full_name": "Michael Chen",
+    "email": "michael.chen@email.com",
+    "phone": "+1-555-0102",
+    "level": "Expert",
+    "bio": "Senior software architect with 7+ years of experience in distributed systems and cloud architecture",
+    "education": [
+      {
+        "degree": "M.S. in Computer Science",
+        "institution": "MIT",
+        "year": "2017",
+        "gpa": "3.9",
+        "major": "Distributed Systems"
+      },
+      {
+        "degree": "B.Tech in Computer Engineering",
+        "institution": "UC Berkeley",
+        "year": "2015",
+        "gpa": "3.7",
+        "major": "Computer Engineering"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "role": "Senior Software Engineer",
+        "start_date": "2020-01",
+        "end_date": "2024-11",
+        "description": "Led architecture design for cloud-native applications serving 10M+ users",
+        "achievements": ["Designed microservices architecture", "Reduced infrastructure costs by 30%"]
+      },
+      {
+        "company": "Amazon",
+        "role": "Software Development Engineer II",
+        "start_date": "2017-06",
+        "end_date": "2019-12",
+        "description": "Developed scalable backend services for AWS"
+      }
+    ],
+    "skills": [
+      {"name": "Python", "proficiency": "Expert", "years": 8},
+      {"name": "Java", "proficiency": "Advanced", "years": 7},
+      {"name": "Kubernetes", "proficiency": "Advanced", "years": 5},
+      {"name": "AWS", "proficiency": "Expert", "years": 6},
+      {"name": "System Design", "proficiency": "Expert", "years": 7},
+      {"name": "Microservices", "proficiency": "Expert", "years": 6},
+      {"name": "Go", "proficiency": "Advanced", "years": 4}
+    ],
+    "projects": [
+      {
+        "title": "Distributed Cache System",
+        "description": "Built a distributed caching system handling 1M requests/sec",
+        "technologies": ["Go", "Redis", "Kubernetes"],
+        "url": "https://github.com/mchen/cache-system",
+        "date": "2023"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Solutions Architect Professional",
+        "issuer": "Amazon Web Services",
+        "date": "2022-03"
+      },
+      {
+        "name": "Certified Kubernetes Administrator",
+        "issuer": "CNCF",
+        "date": "2021-08"
+      }
+    ],
+    "total_experience_years": 7.5
+  },
+  {
+    "id": "student-003",
+    "full_name": "Emily Rodriguez",
+    "email": "emily.rodriguez@email.com",
+    "phone": "+1-555-0103",
+    "level": "Beginner",
+    "bio": "Recent computer science graduate eager to start career in software development",
+    "education": [
+      {
+        "degree": "B.S. in Computer Science",
+        "institution": "University of Texas",
+        "year": "2024",
+        "gpa": "3.6",
+        "major": "Computer Science"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Tech Startup",
+        "role": "Software Engineering Intern",
+        "start_date": "2023-06",
+        "end_date": "2023-08",
+        "description": "Developed features for mobile application using React Native"
+      }
+    ],
+    "skills": [
+      {"name": "Python", "proficiency": "Intermediate", "years": 2},
+      {"name": "JavaScript", "proficiency": "Beginner", "years": 1},
+      {"name": "React", "proficiency": "Beginner", "years": 1},
+      {"name": "SQL", "proficiency": "Beginner", "years": 1},
+      {"name": "Git", "proficiency": "Intermediate", "years": 2}
+    ],
+    "projects": [
+      {
+        "title": "Student Portal",
+        "description": "University project for student course management",
+        "technologies": ["Python", "Flask", "SQLite"],
+        "url": "https://github.com/emily/student-portal",
+        "date": "2024"
+      },
+      {
+        "title": "Weather App",
+        "description": "Simple weather application using public API",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "url": "https://github.com/emily/weather-app",
+        "date": "2023"
+      }
+    ],
+    "certifications": [],
+    "total_experience_years": 0.5
+  },
+  {
+    "id": "student-004",
+    "full_name": "David Kim",
+    "email": "david.kim@email.com",
+    "phone": "+1-555-0104",
+    "level": "Intermediate",
+    "bio": "Data scientist with strong background in machine learning and statistical analysis",
+    "education": [
+      {
+        "degree": "M.S. in Data Science",
+        "institution": "Carnegie Mellon University",
+        "year": "2022",
+        "gpa": "3.85",
+        "major": "Data Science"
+      }
+    ],
+    "experience": [
+      {
+        "company": "DataCorp",
+        "role": "Data Scientist",
+        "start_date": "2022-08",
+        "end_date": "2024-11",
+        "description": "Built ML models for customer churn prediction and recommendation systems",
+        "achievements": ["Improved model accuracy by 15%", "Deployed 5 production ML models"]
+      }
+    ],
+    "skills": [
+      {"name": "Python", "proficiency": "Advanced", "years": 4},
+      {"name": "Machine Learning", "proficiency": "Advanced", "years": 3},
+      {"name": "TensorFlow", "proficiency": "Intermediate", "years": 2},
+      {"name": "PyTorch", "proficiency": "Intermediate", "years": 2},
+      {"name": "SQL", "proficiency": "Advanced", "years": 3},
+      {"name": "Pandas", "proficiency": "Advanced", "years": 3},
+      {"name": "Scikit-learn", "proficiency": "Advanced", "years": 3}
+    ],
+    "projects": [
+      {
+        "title": "Sentiment Analysis Tool",
+        "description": "NLP-based sentiment analysis for social media",
+        "technologies": ["Python", "BERT", "FastAPI"],
+        "url": "https://github.com/dkim/sentiment-analysis",
+        "date": "2023"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "TensorFlow Developer Certificate",
+        "issuer": "Google",
+        "date": "2023-01"
+      }
+    ],
+    "total_experience_years": 2.5
+  },
+  {
+    "id": "student-005",
+    "full_name": "Priya Sharma",
+    "email": "priya.sharma@email.com",
+    "phone": "+1-555-0105",
+    "level": "Intermediate",
+    "bio": "Full-stack developer specializing in modern web technologies and cloud platforms",
+    "education": [
+      {
+        "degree": "B.Tech in Information Technology",
+        "institution": "IIT Delhi",
+        "year": "2020",
+        "gpa": "3.7",
+        "major": "Information Technology"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Infosys",
+        "role": "Senior Systems Engineer",
+        "start_date": "2020-07",
+        "end_date": "2024-11",
+        "description": "Developed enterprise web applications using Angular and Spring Boot",
+        "achievements": ["Led migration to microservices", "Mentored 5 junior developers"]
+      }
+    ],
+    "skills": [
+      {"name": "Java", "proficiency": "Advanced", "years": 4},
+      {"name": "Spring Boot", "proficiency": "Advanced", "years": 4},
+      {"name": "Angular", "proficiency": "Advanced", "years": 3},
+      {"name": "TypeScript", "proficiency": "Advanced", "years": 3},
+      {"name": "MongoDB", "proficiency": "Intermediate", "years": 2},
+      {"name": "Docker", "proficiency": "Intermediate", "years": 2},
+      {"name": "Jenkins", "proficiency": "Intermediate", "years": 2}
+    ],
+    "projects": [
+      {
+        "title": "Banking Portal",
+        "description": "Secure online banking application with multi-factor authentication",
+        "technologies": ["Angular", "Spring Boot", "PostgreSQL"],
+        "url": "https://github.com/priya/banking-portal",
+        "date": "2023"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Oracle Certified Java Programmer",
+        "issuer": "Oracle",
+        "date": "2021-06"
+      }
+    ],
+    "total_experience_years": 4.0
+  }
+]
