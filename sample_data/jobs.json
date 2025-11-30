@@ -1,0 +1,418 @@
+[
+  {
+    "id": "job-001",
+    "company_name": "TechGiant Corp",
+    "title": "Senior Full Stack Developer",
+    "description": "We are seeking an experienced Full Stack Developer to join our engineering team. You will be responsible for designing, developing, and maintaining scalable web applications using modern technologies. The ideal candidate has strong experience with React, Node.js, and cloud platforms.",
+    "job_type": "Full-time",
+    "work_mode": "Hybrid",
+    "seniority": "Senior",
+    "department": "Engineering",
+    "required_skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "Docker",
+      "Git"
+    ],
+    "preferred_skills": [
+      "TypeScript",
+      "Kubernetes",
+      "GraphQL",
+      "Redis"
+    ],
+    "requirements": {
+      "experience_years": 5,
+      "education": ["Bachelor's in Computer Science", "Master's in Computer Science"],
+      "skills": ["React", "Node.js", "AWS"],
+      "certifications": []
+    },
+    "responsibilities": [
+      "Design and implement scalable web applications",
+      "Collaborate with cross-functional teams",
+      "Mentor junior developers",
+      "Participate in code reviews",
+      "Optimize application performance"
+    ],
+    "location": "San Francisco, CA",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "USA",
+    "is_remote": false,
+    "salary_min": 120000,
+    "salary_max": 180000,
+    "salary_currency": "USD",
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Flexible PTO",
+      "Remote work options",
+      "Professional development budget"
+    ],
+    "openings": 2
+  },
+  {
+    "id": "job-002",
+    "company_name": "AI Innovations Inc",
+    "title": "Machine Learning Engineer",
+    "description": "Join our AI team to build cutting-edge machine learning models. You will work on NLP, computer vision, and recommendation systems. Strong Python skills and experience with TensorFlow/PyTorch required.",
+    "job_type": "Full-time",
+    "work_mode": "Remote",
+    "seniority": "Mid",
+    "department": "AI Research",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "PyTorch",
+      "NLP",
+      "SQL"
+    ],
+    "preferred_skills": [
+      "Deep Learning",
+      "Computer Vision",
+      "MLOps",
+      "Kubernetes"
+    ],
+    "requirements": {
+      "experience_years": 3,
+      "education": ["Master's in Computer Science", "Master's in Data Science"],
+      "skills": ["Python", "Machine Learning", "TensorFlow"],
+      "certifications": []
+    },
+    "responsibilities": [
+      "Develop and deploy ML models",
+      "Conduct experiments and research",
+      "Optimize model performance",
+      "Collaborate with data engineers",
+      "Document technical solutions"
+    ],
+    "location": "Remote",
+    "city": "Remote",
+    "state": "",
+    "country": "USA",
+    "is_remote": true,
+    "salary_min": 100000,
+    "salary_max": 150000,
+    "salary_currency": "USD",
+    "benefits": [
+      "Fully remote",
+      "Health insurance",
+      "Stock options",
+      "Learning budget",
+      "Conference attendance"
+    ],
+    "openings": 3
+  },
+  {
+    "id": "job-003",
+    "company_name": "StartupXYZ",
+    "title": "Junior Software Developer",
+    "description": "Great opportunity for recent graduates! We're looking for enthusiastic developers to join our growing team. You'll work on web applications using React and Python, with mentorship from senior engineers.",
+    "job_type": "Full-time",
+    "work_mode": "On-site",
+    "seniority": "Entry",
+    "department": "Engineering",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Node.js",
+      "SQL",
+      "Docker"
+    ],
+    "requirements": {
+      "experience_years": 0,
+      "education": ["Bachelor's in Computer Science"],
+      "skills": ["JavaScript", "Python"],
+      "certifications": []
+    },
+    "responsibilities": [
+      "Develop web application features",
+      "Write clean, maintainable code",
+      "Participate in team meetings",
+      "Learn from senior developers",
+      "Fix bugs and improve performance"
+    ],
+    "location": "Austin, TX",
+    "city": "Austin",
+    "state": "Texas",
+    "country": "USA",
+    "is_remote": false,
+    "salary_min": 60000,
+    "salary_max": 80000,
+    "salary_currency": "USD",
+    "benefits": [
+      "Health insurance",
+      "Paid time off",
+      "Learning opportunities",
+      "Casual work environment"
+    ],
+    "openings": 5
+  },
+  {
+    "id": "job-004",
+    "company_name": "CloudTech Solutions",
+    "title": "DevOps Engineer",
+    "description": "We need a skilled DevOps engineer to manage our cloud infrastructure and CI/CD pipelines. Experience with AWS, Kubernetes, and Terraform is essential.",
+    "job_type": "Full-time",
+    "work_mode": "Hybrid",
+    "seniority": "Mid",
+    "department": "Infrastructure",
+    "required_skills": [
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Jenkins",
+      "Linux"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Ansible",
+      "Prometheus",
+      "Grafana"
+    ],
+    "requirements": {
+      "experience_years": 3,
+      "education": ["Bachelor's in Computer Science", "Bachelor's in Engineering"],
+      "skills": ["AWS", "Kubernetes", "Docker"],
+      "certifications": ["AWS Certified Solutions Architect"]
+    },
+    "responsibilities": [
+      "Manage cloud infrastructure",
+      "Build and maintain CI/CD pipelines",
+      "Monitor system performance",
+      "Implement security best practices",
+      "Automate deployment processes"
+    ],
+    "location": "Seattle, WA",
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "USA",
+    "is_remote": false,
+    "salary_min": 110000,
+    "salary_max": 150000,
+    "salary_currency": "USD",
+    "benefits": [
+      "Health insurance",
+      "401(k)",
+      "Flexible hours",
+      "Remote work options"
+    ],
+    "openings": 2
+  },
+  {
+    "id": "job-005",
+    "company_name": "DataAnalytics Pro",
+    "title": "Data Scientist",
+    "description": "Looking for a data scientist to analyze large datasets and build predictive models. Strong statistical knowledge and Python skills required.",
+    "job_type": "Full-time",
+    "work_mode": "Remote",
+    "seniority": "Mid",
+    "department": "Data Science",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Pandas",
+      "Scikit-learn",
+      "Statistics"
+    ],
+    "preferred_skills": [
+      "TensorFlow",
+      "PyTorch",
+      "Tableau",
+      "R"
+    ],
+    "requirements": {
+      "experience_years": 2,
+      "education": ["Master's in Data Science", "Master's in Statistics"],
+      "skills": ["Python", "Machine Learning", "SQL"],
+      "certifications": []
+    },
+    "responsibilities": [
+      "Analyze complex datasets",
+      "Build predictive models",
+      "Create data visualizations",
+      "Present findings to stakeholders",
+      "Collaborate with business teams"
+    ],
+    "location": "Remote",
+    "city": "Remote",
+    "state": "",
+    "country": "USA",
+    "is_remote": true,
+    "salary_min": 90000,
+    "salary_max": 130000,
+    "salary_currency": "USD",
+    "benefits": [
+      "Fully remote",
+      "Health insurance",
+      "Professional development",
+      "Flexible schedule"
+    ],
+    "openings": 4
+  },
+  {
+    "id": "job-006",
+    "company_name": "Enterprise Solutions Ltd",
+    "title": "Java Backend Developer",
+    "description": "Experienced Java developer needed for enterprise application development. Strong knowledge of Spring Boot, microservices, and databases required.",
+    "job_type": "Full-time",
+    "work_mode": "On-site",
+    "seniority": "Mid",
+    "department": "Backend Engineering",
+    "required_skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "PostgreSQL",
+      "REST API",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Kafka",
+      "Redis",
+      "Docker",
+      "AWS"
+    ],
+    "requirements": {
+      "experience_years": 4,
+      "education": ["Bachelor's in Computer Science"],
+      "skills": ["Java", "Spring Boot", "SQL"],
+      "certifications": ["Oracle Certified Java Programmer"]
+    },
+    "responsibilities": [
+      "Design and develop backend services",
+      "Implement RESTful APIs",
+      "Optimize database queries",
+      "Write unit and integration tests",
+      "Participate in architecture decisions"
+    ],
+    "location": "New York, NY",
+    "city": "New York",
+    "state": "New York",
+    "country": "USA",
+    "is_remote": false,
+    "salary_min": 100000,
+    "salary_max": 140000,
+    "salary_currency": "USD",
+    "benefits": [
+      "Health insurance",
+      "401(k) matching",
+      "Paid time off",
+      "Training programs"
+    ],
+    "openings": 3
+  },
+  {
+    "id": "job-007",
+    "company_name": "Mobile First Inc",
+    "title": "React Native Developer",
+    "description": "Build cross-platform mobile applications using React Native. Experience with iOS and Android development required.",
+    "job_type": "Full-time",
+    "work_mode": "Hybrid",
+    "seniority": "Mid",
+    "department": "Mobile Development",
+    "required_skills": [
+      "React Native",
+      "JavaScript",
+      "TypeScript",
+      "iOS",
+      "Android",
+      "Git"
+    ],
+    "preferred_skills": [
+      "Redux",
+      "Firebase",
+      "GraphQL",
+      "Jest"
+    ],
+    "requirements": {
+      "experience_years": 3,
+      "education": ["Bachelor's in Computer Science"],
+      "skills": ["React Native", "JavaScript"],
+      "certifications": []
+    },
+    "responsibilities": [
+      "Develop mobile applications",
+      "Implement UI/UX designs",
+      "Integrate with backend APIs",
+      "Optimize app performance",
+      "Publish apps to stores"
+    ],
+    "location": "Los Angeles, CA",
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "USA",
+    "is_remote": false,
+    "salary_min": 95000,
+    "salary_max": 135000,
+    "salary_currency": "USD",
+    "benefits": [
+      "Health insurance",
+      "Stock options",
+      "Flexible hours",
+      "Remote work days"
+    ],
+    "openings": 2
+  },
+  {
+    "id": "job-008",
+    "company_name": "CyberSec Corp",
+    "title": "Security Engineer",
+    "description": "Protect our systems and data as a security engineer. Experience with penetration testing, security audits, and compliance required.",
+    "job_type": "Full-time",
+    "work_mode": "On-site",
+    "seniority": "Senior",
+    "department": "Security",
+    "required_skills": [
+      "Security",
+      "Penetration Testing",
+      "Linux",
+      "Python",
+      "Networking",
+      "Cryptography"
+    ],
+    "preferred_skills": [
+      "CISSP",
+      "CEH",
+      "AWS Security",
+      "Kubernetes Security"
+    ],
+    "requirements": {
+      "experience_years": 5,
+      "education": ["Bachelor's in Computer Science", "Bachelor's in Cybersecurity"],
+      "skills": ["Security", "Penetration Testing"],
+      "certifications": ["CISSP", "CEH"]
+    },
+    "responsibilities": [
+      "Conduct security assessments",
+      "Implement security controls",
+      "Monitor for threats",
+      "Respond to incidents",
+      "Ensure compliance"
+    ],
+    "location": "Washington, DC",
+    "city": "Washington",
+    "state": "DC",
+    "country": "USA",
+    "is_remote": false,
+    "salary_min": 130000,
+    "salary_max": 180000,
+    "salary_currency": "USD",
+    "benefits": [
+      "Health insurance",
+      "Security clearance support",
+      "401(k)",
+      "Professional certifications"
+    ],
+    "openings": 1
+  }
+]
